@@ -1,0 +1,22 @@
+﻿  Building 'CR3 Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Mani.c
+D:\Cpp\ProcessDump\BYOVD\CR3 Driver\CR3 Driver\CR3.h(16,9): warning C4047: “==”:“ULONG”与“void *”的间接级别不同
+D:\Cpp\ProcessDump\BYOVD\CR3 Driver\CR3 Driver\CR3.h(84): warning C4701: 使用了可能未初始化的局部变量“CR3Offset”
+  (编译源文件“Mani.c”)
+  
+D:\Cpp\ProcessDump\BYOVD\CR3 Driver\CR3 Driver\CR3.h(41,23): warning C4047: “函数”:“PRTL_OSVERSIONINFOW”与“PRTL_OSVERSIONINFOW *”的间接级别不同
+  (编译源文件“Mani.c”)
+  
+D:\Cpp\ProcessDump\BYOVD\CR3 Driver\CR3 Driver\CR3.h(41,23): warning C4024: “RtlGetVersion”: 形参和实参 1 的类型不同
+  (编译源文件“Mani.c”)
+  
+D:\Cpp\ProcessDump\BYOVD\CR3 Driver\CR3 Driver\Mani.c(15,8): warning C4047: “初始化”:“ULONG”与“UCHAR *”的间接级别不同
+D:\Cpp\ProcessDump\BYOVD\CR3 Driver\CR3 Driver\Mani.c(15,8): warning C4189: “buffer”: 局部变量已初始化但不引用
+  CR3 Driver.vcxproj -> D:\Cpp\ProcessDump\BYOVD\CR3 Driver\x64\Release\CR3Driver.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Cpp\ProcessDump\BYOVD\CR3 Driver\x64\Release\CR3Driver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
+  DrvCat task was skipped as there was no catalog file to process
+  

@@ -1,0 +1,8 @@
+﻿  Building 'CR3 Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Mani.c
+D:\Cpp\ProcessDump\BYOVD\CR3 Driver\CR3 Driver\CR3.h(16,9): error C2220: 以下警告被视为错误
+  (编译源文件“Mani.c”)
+  
+D:\Cpp\ProcessDump\BYOVD\CR3 Driver\CR3 Driver\CR3.h(16,9): warning C4047: “==”:“ULONG”与“void *”的间接级别不同
+  (编译源文件“Mani.c”)
+  
